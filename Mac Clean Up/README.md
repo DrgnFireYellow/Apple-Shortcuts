@@ -1,5 +1,5 @@
 # Mac Clean Up
-Mac Clean up is an easy to use, lightweight, and safe tool for freeing up storage space on your Mac.
+Mac Clean Up is an easy to use, lightweight, and safe tool for freeing up storage space on your Mac.
 ## Compatibility
 - iPhone ❌
 - iPad ❌
