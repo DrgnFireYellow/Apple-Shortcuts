@@ -1,4 +1,6 @@
 # Downloads Sorter
+![Utilities](https://img.shields.io/badge/Utilities-Green?style=for-the-badge)
+
 Downloads Sorter is a simple tool that will sort the contents of your downloads folder by file type.
 ## Compatibility
 - iPhone ❌
