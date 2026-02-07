@@ -1,5 +1,11 @@
 # Mac Clean Up
 Mac Clean up is an easy to use, lightweight, and safe tool for freeing up storage space on your Mac.
+## Compatibility
+- iPhone ❌
+- iPad ❌
+- Mac ✅
+- Apple Watch ❌
+- Apple Vision Pro ❌
 ## Versions
 |Version|iCloud|GitHub|
 |-------|------|------|
