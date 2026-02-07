@@ -1,11 +1,11 @@
 # Downloads Sorter
 Downloads Sorter is a simple tool that will sort the contents of your downloads folder by file type.
 ## Compatibility
-- iPhone ❓
-- iPad ❓
+- iPhone ❌
+- iPad ❌
 - Mac ✅
 - Apple Watch ❌
-- Apple Vision Pro ❓
+- Apple Vision Pro ❌
 ## Versions
 |Version|iCloud|GitHub|
 |-------|------|------|
